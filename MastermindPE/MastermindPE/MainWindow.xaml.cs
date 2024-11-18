@@ -226,7 +226,7 @@ namespace MastermindPE
                     temporaryLabel.BorderThickness = new Thickness(5);
                 }
             }
-        }
+        }//commit2
     }
 }
 
